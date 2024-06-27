@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @hunter-4817
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a dedicated WordPress and Shopify developer with 2 years of experience in crafting customized, elegant websites. 
+My expertise lies in transforming unique ideas into seamless digital experiences, ensuring each project is tailored to meet client needs with precision and creativity. 
+Passionate about web development, I strive to deliver high-quality, user-friendly solutions that drive engagement and success.
 
-<!---
-hunter-4817/hunter-4817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Specializations:
+
+🌐 WordPress Development
+🛍️ Shopify Development
+🎨 Custom Website Design
+💡 Innovative Web Solutions
+🧩 Plugin and Theme Customization
+📱 Responsive Design
+🔧 Technical Support and Maintenance
